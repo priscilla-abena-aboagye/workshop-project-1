@@ -13,3 +13,4 @@ This is a workshop done to experiment HTML and currently python
 ## Features
 - Information about sunflower species.
 - A gallery of stunning sunflower images.
+- Some of the methods in python
