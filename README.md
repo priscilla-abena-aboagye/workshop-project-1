@@ -1,5 +1,5 @@
 ## Workshop
-This is a workshop done to experiment HTML
+This is a workshop done to experiment HTML and currently python
 
 -----
 
